@@ -30,19 +30,19 @@ References:
 
 # Instrucions:
 
-## 1) Donwload the files below from the git repository
+1) Donwload the files below from the git repository
 
-# - cisco-asa-ids-improvements_rev0.sh
-# - update_cisco-asa_ids-decoders_rev0.py
-# - update_cisco-asa_ids-rules_rev0.py
+ - cisco-asa-ids-improvements_rev0.sh
+ - update_cisco-asa_ids-decoders_rev0.py
+ - update_cisco-asa_ids-rules_rev0.py
 
-## 2) Set the execution permition 
+2) Set the execution permition 
 
-# chmod +x cisco-asa-ids-improvements_rev0.sh
-# chmod +x update_cisco-asa_ids-decoders_rev0.py
-# chmod +x update_cisco-asa_ids-rules_rev0.py
+ chmod +x cisco-asa-ids-improvements_rev0.sh
+ chmod +x update_cisco-asa_ids-decoders_rev0.py
+ chmod +x update_cisco-asa_ids-rules_rev0.py
 
-## 3) Execute the bash script from the terminal
+3) Execute the bash script from the terminal
 
-# ./cisco-asa-ids-improvements_rev0.sh
+ ./cisco-asa-ids-improvements_rev0.sh
 
