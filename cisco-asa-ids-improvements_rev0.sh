@@ -8,6 +8,7 @@
 # For more details, review a copy of the GNU General Public License at <https://www.gnu.org/licenses/>.
 #
 # Created by: Leandro Fernandes Correia
+# Linkedin: https://www.linkedin.com/in/leo-correia/
 # GitHub: https://github.com/leo-fcorreia
 # Website: https://reptsec.com
 # Year: 2025
